@@ -1,0 +1,776 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "to-validate-the-login-functionality-of-the-facebook-application;to-validate-the-login-functionality-with-invalid-credentials",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "To validate the login functionality with invalid credentials",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2847469600
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 502299
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 344799
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 431400
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 475300
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 521499
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 472499
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2811023299
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "the user should be login page",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:16"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2190185199
+            },
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "The user has to fill username \"csenalini@gmail.com\" and password \"4567890987\"",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:48"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 168237199
+            },
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "The user has to click the login button",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:58"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 35204700
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "The user should be navigated in invalid login page",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:62"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1362199
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 21219099
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 5230799
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 4815500
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 4123600
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1465799
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 50255199
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "@login",
+            "line": 1
+          },
+          {
+            "name": "@E2E",
+            "line": 1
+          },
+          {
+            "name": "@smoke",
+            "line": 9
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "to-validate-the-login-functionality-of-the-facebook-application;to-validate-the-login-functionality-with-invalid-credentials",
+        "keyword": "Scenario",
+        "line": 17,
+        "name": "To validate the login functionality with invalid credentials",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2767832000
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 632999
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 305500
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 346999
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 338200
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2734362199
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "the user should be login page",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:16"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2149707100
+            },
+            "arguments": [],
+            "keyword": "When ",
+            "line": 19,
+            "name": "The user has to fill username \"nishu@gmail.com\" and password \"45123213287\"",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:48"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 136432799
+            },
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "The user has to click the login button",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:58"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 21495399
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "The user should be navigated in invalid login page",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:62"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 507200
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 341099
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 665399
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1101300
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 43891500
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "@login",
+            "line": 1
+          },
+          {
+            "name": "@E2E",
+            "line": 1
+          },
+          {
+            "name": "@sanity",
+            "line": 16
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "to-validate-the-login-functionality-of-the-facebook-application;to-validate-the-registation-functionality",
+        "keyword": "Scenario",
+        "line": 25,
+        "name": "To validate the registation functionality",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2985844499
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 274100
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 256000
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 377800
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 754399
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 349500
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 301699
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 3253135800
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "the user should be login page",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:16"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1457348299
+            },
+            "arguments": [],
+            "keyword": "When ",
+            "line": 28,
+            "name": "the user has to click the create new account button",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:24"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1130669300
+            },
+            "arguments": [],
+            "keyword": "And ",
+            "line": 29,
+            "name": "The user has to fill firstname,lastname and other details",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:29"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 135108599
+            },
+            "arguments": [],
+            "keyword": "And ",
+            "line": 30,
+            "name": "The user has to click the submit button",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:36"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 33815900
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 31,
+            "name": "The user should be get successfullyregistered message",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:41"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1155099
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 464799
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 599600
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 666000
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 3437500
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 442200
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 141039400
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "@login",
+            "line": 1
+          },
+          {
+            "name": "@E2E",
+            "line": 1
+          },
+          {
+            "name": "@regreesion",
+            "line": 24
+          },
+          {
+            "name": "@retest",
+            "line": 24
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "to-validate-the-login-functionality-of-the-facebook-application;to-validate-the-registation-functionality",
+        "keyword": "Scenario",
+        "line": 34,
+        "name": "To validate the registation functionality",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2569851099
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 329099
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 245699
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 340700
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 223200
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 177500
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 176900
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2879154599
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "the user should be login page",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:16"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1646511100
+            },
+            "arguments": [],
+            "keyword": "When ",
+            "line": 37,
+            "name": "the user has to click the create new account button",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:24"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 980076000
+            },
+            "arguments": [],
+            "keyword": "And ",
+            "line": 38,
+            "name": "The user has to fill firstname,lastname and other details",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:29"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 163649499
+            },
+            "arguments": [],
+            "keyword": "And ",
+            "line": 39,
+            "name": "The user has to click the submit button",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:36"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 44749600
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 40,
+            "name": "The user should be get successfullyregistered message",
+            "match": {
+              "location": "tests\\Stepdefinition\\Loginsteps.js:41"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 30162900
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 486899
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1291600
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 359099
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 264500
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 232300
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 26586699
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "@login",
+            "line": 1
+          },
+          {
+            "name": "@E2E",
+            "line": 1
+          },
+          {
+            "name": "@retest",
+            "line": 33
+          },
+          {
+            "name": "@regression",
+            "line": 33
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "to-validate-the-login-functionality-of-the-facebook-application",
+    "line": 2,
+    "keyword": "Feature",
+    "name": "To validate the login functionality of the facebook application",
+    "tags": [
+      {
+        "name": "@login",
+        "line": 1
+      },
+      {
+        "name": "@E2E",
+        "line": 1
+      }
+    ],
+    "uri": "tests\\Features\\Login.feature"
+  }
+]

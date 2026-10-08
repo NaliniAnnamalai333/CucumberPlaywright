@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<testsuite name="Cucumber" time="38.643" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-01T04:03:54.730Z">
+  <testcase classname="To validate the login functionality of the facebook application" name="To validate the login functionality with invalid credentials" time="9.54">
+    <system-out><![CDATA[Given the user should be login page.........................................passed
+When The user has to fill username "csenalini@gmail.com" and password "4567890987"..passed
+And The user has to click the login button..................................passed
+Then The user should be navigated in invalid login page.....................passed]]></system-out>
+  </testcase>
+  <testcase classname="To validate the login functionality of the facebook application" name="To validate the login functionality with invalid credentials" time="8.596">
+    <system-out><![CDATA[Given the user should be login page.........................................passed
+When The user has to fill username "nishu@gmail.com" and password "45123213287"..passed
+And The user has to click the login button..................................passed
+Then The user should be navigated in invalid login page.....................passed]]></system-out>
+  </testcase>
+  <testcase classname="To validate the login functionality of the facebook application" name="To validate the registation functionality" time="9.776">
+    <system-out><![CDATA[Given the user should be login page.........................................passed
+When the user has to click the create new account button....................passed
+And The user has to fill firstname,lastname and other details...............passed
+And The user has to click the submit button.................................passed
+Then The user should be get successfullyregistered message..................passed]]></system-out>
+  </testcase>
+  <testcase classname="To validate the login functionality of the facebook application" name="To validate the registation functionality" time="10.701">
+    <system-out><![CDATA[Given the user should be login page.........................................passed
+When the user has to click the create new account button....................passed
+And The user has to fill firstname,lastname and other details...............passed
+And The user has to click the submit button.................................passed
+Then The user should be get successfullyregistered message..................passed]]></system-out>
+  </testcase>
+</testsuite>
